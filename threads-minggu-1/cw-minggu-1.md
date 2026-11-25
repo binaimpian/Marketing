@@ -277,12 +277,12 @@ Nak tahu anggaran kalau pelan macam ni atas tanah korang? DM saya lokasi tanah �
 
 ---
 
-## CW-K · Trust · Ijok 6, owner minta stor
-Bahan: caption TikTok 14 Okt (42' x 48', 1,501 kps, 4 bilik 3 bilik air 1 stor, dapur luas, RM258K). 📸 Gambar stor & dapur.
+## CW-K · Trust · Ijok 6, owner custom pelan tambah stor
+Bahan: caption TikTok 14 Okt (42' x 48', 1,501 kps, 4 bilik 3 bilik air 1 stor, dapur luas, RM258K) + Meor: owner custom pelan untuk tambah stor. 📸 Gambar stor & dapur.
 
-Ramai bila plan rumah fikir bilik je. Owner ni lain sikit, dia minta stor.
+Ramai bila plan rumah fikir bilik je. Owner ni lain sikit, dia custom pelan semata-mata nak tambah stor.
 
-Dan bila saya tengok rumah dia siap, saya rasa keputusan dia memang betul. Jom saya share!
+Bila saya masuk rumah dia yang dah siap, baru saya faham kenapa. Jom saya share!
 
 -----
 
@@ -301,3 +301,30 @@ Harga tu ikut spec dan harga bahan masa rumah ni dibina ya.
 -----
 
 Kalau korang bina rumah nanti, stor tu wajib ke boleh skip? Komen 👇
+
+---
+
+## CW-L · Education · Kaki lima retak sebab tanah mendap
+Bahan: gambar jalan/kaki lima retak (sumber: Utusan Borneo, wajib kredit, atau guna gambar site sendiri). 📸
+
+Pernah nampak kaki lima atau lantai luar rumah retak memanjang macam ni? Kadang-kadang sampai terbelah dan tenggelam sebelah.
+
+Ramai ingat sebab simen tak kuat. Sebenarnya selalunya bukan simen, tapi tanah kat bawah dia. Jom saya share!
+
+-----
+
+Nama dia pemendapan tanah. Tanah kat bawah turun sikit demi sikit, lagi-lagi kalau tanah tu tanah tambak yang belum cukup mampat, atau selalu kena air.
+
+Bila tanah turun, lantai yang duduk atas tanah tu pun ikut turun. Sebab tu dia retak atau terpisah.
+
+-----
+
+Untuk korang yang nak bina rumah atas tanah sendiri, ni sebab kenapa kena tanya pasal keadaan tanah dari awal.
+
+Tanah tu tanah asal atau baru ditambak? Kawasan tu selalu bertakung air bila hujan? Benda ni semua kena bincang dengan kontraktor sebelum mula bina, bukan lepas nampak retak.
+
+-----
+
+Tanah korang tanah asal atau tanah tambak? Komen 👇 Kalau tak pasti, DM saya lokasi, team boleh tolong tengok.
+
+(Sumber gambar: Utusan Borneo)
