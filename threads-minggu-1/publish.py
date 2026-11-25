@@ -8,7 +8,8 @@ Guna:  python3 publish.py posts-contractorguyy.json [--dry-run]
 - Post diterbit kalau masanya (MYT) dah lepas, tapi tak lebih 3 jam lepas
   (supaya post lama tak tersembur sekali gus kalau tugas terlepas).
 - Rekod post yang dah keluar disimpan dalam posted-<nama>.json.
-- image_urls: 0 = teks, 1 = gambar, 2+ = carousel.
+- parts: senarai teks; bahagian 1 = hook, selebihnya dibalas bersambung.
+- image_urls (untuk bahagian 1 sahaja): 0 = teks, 1 = gambar, 2+ = carousel.
 """
 import json, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timedelta, timezone
@@ -47,13 +48,14 @@ def wait_ready(cid):
     raise RuntimeError(f"container {cid} belum siap")
 
 
-def create_container(post):
-    imgs = post.get("image_urls") or []
-    text = post["content"]
+def create_container(text, imgs, reply_to=None):
+    extra = {"reply_to_id": reply_to} if reply_to else {}
     if not imgs:
-        return call("POST", "me/threads", {"media_type": "TEXT", "text": text})["id"]
+        cid = call("POST", "me/threads", {"media_type": "TEXT", "text": text, **extra})["id"]
+        wait_ready(cid)
+        return cid
     if len(imgs) == 1:
-        cid = call("POST", "me/threads", {"media_type": "IMAGE", "image_url": imgs[0], "text": text})["id"]
+        cid = call("POST", "me/threads", {"media_type": "IMAGE", "image_url": imgs[0], "text": text, **extra})["id"]
         wait_ready(cid)
         return cid
     kids = []
@@ -61,7 +63,7 @@ def create_container(post):
         k = call("POST", "me/threads", {"media_type": "IMAGE", "image_url": u, "is_carousel_item": "true"})["id"]
         wait_ready(k)
         kids.append(k)
-    cid = call("POST", "me/threads", {"media_type": "CAROUSEL", "children": ",".join(kids), "text": text})["id"]
+    cid = call("POST", "me/threads", {"media_type": "CAROUSEL", "children": ",".join(kids), "text": text, **extra})["id"]
     wait_ready(cid)
     return cid
 
@@ -93,13 +95,18 @@ def main():
         print("Tiada post yang sampai masa.")
         return
     for p in due:
+        parts = p.get("parts") or [p["content"]]
         if dry:
-            print(f"[dry-run] akan terbit {p['id']}: {p['content'][:60]!r}")
+            print(f"[dry-run] akan terbit {p['id']} ({len(parts)} bahagian): {parts[0][:60]!r}")
             continue
-        cid = create_container(p)
-        pub = call("POST", "me/threads_publish", {"creation_id": cid})
-        link = call("GET", pub["id"], {"fields": "permalink"}).get("permalink")
-        state[p["id"]] = {"media_id": pub["id"], "permalink": link,
+        ids, prev = [], None
+        for i, text in enumerate(parts):
+            cid = create_container(text, (p.get("image_urls") or []) if i == 0 else [], prev)
+            prev = call("POST", "me/threads_publish", {"creation_id": cid})["id"]
+            ids.append(prev)
+            time.sleep(5)
+        link = call("GET", ids[0], {"fields": "permalink"}).get("permalink")
+        state[p["id"]] = {"media_ids": ids, "permalink": link,
                           "posted_at": datetime.now(MYT).isoformat(timespec="minutes")}
         state_f.write_text(json.dumps(state, indent=2, ensure_ascii=False))
         print(f"DITERBIT {p['id']} -> {link}")
