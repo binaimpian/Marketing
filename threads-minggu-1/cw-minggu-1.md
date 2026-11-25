@@ -1,4 +1,4 @@
-# 3 CW pertama, @contractorguyy (gaya baru)
+# CW minggu 1, @contractorguyy (gaya baru)
 
 Minggu 1: pillar Education + Trust. Masa ikut analitik: 09:00 / 12:00 / 17:00 MYT.
 Format sheet: post utama, kemudian setiap reply dipisah dengan garis `-----`.
@@ -140,3 +140,164 @@ Terima kasih owner atas kepercayaan. Doakan kami juga 🤍
 -----
 
 Ada tanah dan terfikir nak bina homestay atau rumah sewa? DM saya, kita borak dulu 🤝
+
+---
+
+## CW-F · Education · "Katil king muat tak?"
+Bahan: komen sebenar di TikTok ("tunjuk la bilik, nk tgk luas ke tak. boleh letak katil king saiz tak") + CWM02 (pelan dengan perabot). 📸 Pelan bilik yang ada susunan katil & almari.
+
+"Tunjuk la bilik, nak tengok luas ke tak. Boleh letak katil king saiz tak?"
+
+Ni komen yang masuk dekat video rumah kami. Soalan dia simple, tapi sebenarnya ramai yang patut tanya benda ni sebelum confirm pelan.
+
+Jom saya share kenapa!
+
+-----
+
+Pelan kosong memang nampak lapang. Kotak bilik tu nampak besar je.
+
+Tapi bila masuk katil, almari, meja solek, dengan ruang nak jalan, baru nampak sebenarnya muat ke tak. Kadang-kadang katil muat, tapi pintu almari dah tak boleh buka habis 🥲
+
+-----
+
+Sebab tu kalau bina rumah dengan kami, client boleh request pelan kosong atau pelan sekali dengan perabot.
+
+Bawa list perabot yang korang memang nak letak. Katil king, almari 3 pintu, meja kerja, semua sebut siap-siap. Biar saiz bilik ikut barang korang, bukan barang yang kena ikut bilik.
+
+-----
+
+Korang team katil queen ke king? 😂 Komen 👇
+
+---
+
+## CW-G · Education · "Bayar tunai ikut progress binaan", maksudnya apa?
+Bahan: caption TikTok Ijok 6 & Pulau Indah 13 ("bayaran tunai mengikut progress binaan").
+
+Dalam post rumah kami, selalu ada ayat ni: "bayaran tunai ikut progress binaan."
+
+Ada yang tanya saya, maksudnya kena bayar semua sekali gus ke? Haa, ramai salah faham part ni. Jom saya share!
+
+-----
+
+Bukan bayar semua sekali gus tau.
+
+Maksud dia, bayaran dibuat ikut peringkat kerja yang dah siap. Bila satu peringkat binaan siap, baru bayar untuk peringkat tu. Lepas tu sambung peringkat seterusnya.
+
+-----
+
+Bagi owner, cara ni senang nak nampak duit tu pergi ke mana. Kerja jalan, baru bayaran jalan.
+
+Cuma sebelum sign apa-apa, minta kontraktor terangkan jadual bayaran dia dengan jelas. Peringkat mana, berapa, bila. Jangan malu nak tanya.
+
+-----
+
+Ada soalan lain pasal cara bayaran bina rumah atas tanah sendiri? Tulis kat komen, saya cuba jawab 👇
+
+---
+
+## CW-H · Education · "Kawasan saya cover tak?"
+Bahan: komen sebenar di TikTok (Melaka, JB, Ulu Tiram, Seremban, Semenyih, Raub, Felda Temagau, Sabah) + kawasan liputan dalam caption syarikat.
+
+"Melaka cover tak?" "Ulu Tiram Johor ada?" "Seremban?" "Raub boleh buat? Tanah sendiri, sebelah ada musang king."
+
+Ni antara komen yang paling kerap saya baca dekat TikTok kami. Yang last tu buat saya senyum sorang-sorang 😂
+
+Jom saya jawab sekali harung!
+
+-----
+
+Kawasan yang kami cover sekarang: Selangor, Negeri Sembilan, Melaka, Johor, Perak dan kawasan sempadan Pahang.
+
+Jadi Melaka, Johor, Seremban, Semenyih, memang dalam kawasan kami.
+
+-----
+
+Untuk Pahang, kami cover kawasan sempadan. Jadi kalau tanah korang dekat Raub atau kawasan Felda, DM lokasi tepat dulu, team akan semak.
+
+Sabah dan Sarawak buat masa ni belum lagi ya. Maaf kawan-kawan sana 🙏
+
+-----
+
+Tanah korang dekat mana? Komen nama tempat, saya tolong semak dengan team 👇
+
+---
+
+## CW-I · Trust · Jalan Merbuk, Teluk Panglima Garang
+Bahan: caption TikTok 26 Sep (47' x 32', 1,280 kps, 4 bilik 3 bilik air, 2 pintu hadapan + 1 pintu belakang). 📸 Gambar rumah & pelan.
+
+Rumah ni ada 2 pintu depan. Kenapa?
+
+Masa saya tengok pelan dia, saya terus faham apa yang owner nak. Jom saya share!
+
+-----
+
+Owner ni nak asingkan ruang tamu dengan ruang keluarga. Tetamu masuk satu pintu, duduk ruang tamu. Family boleh buat hal masing-masing kat ruang keluarga tanpa terganggu.
+
+Nampak tersorok, tapi tak tersorok sangat. Ada lagi satu pintu belakang dekat bahagian dapur.
+
+-----
+
+Jalan Merbuk, Teluk Panglima Garang
+47' x 32' (1,280 kps)
+4 bilik, 3 bilik air
+
+Benda macam ni yang best bila bina atas tanah sendiri. Owner yang tentukan cara rumah tu digunakan.
+
+-----
+
+Korang suka ruang tamu dengan ruang keluarga diasingkan, atau gabung terus? Komen 👇
+
+---
+
+## CW-J · Trust · Pulau Indah 13, privasi bilik
+Bahan: caption TikTok 8 Okt (40' x 33', 1,040 kps, 4 bilik 3 bilik air, RM177K, 15K views). 📸 Gambar ruang tamu.
+
+Masuk ruang tamu rumah ni, satu pintu bilik pun tak nampak.
+
+Saya pun tercari-cari mula-mula, mana bilik dia? 😂 Jom saya share!
+
+-----
+
+Rupanya semua ruang dipisah dan disusun oleh owner sendiri. Ruang tamu dekat depan, bilik-bilik tersusun kat belakang.
+
+Bila ada tetamu, privasi family tetap terjaga.
+
+-----
+
+Pulau Indah, Selangor
+40' x 33' (1,040 kps)
+4 bilik, 3 bilik air
+Harga semasa binaan: RM177K, bayaran tunai ikut progress binaan
+
+Harga tu ikut spec dan harga bahan masa rumah ni dibina ya.
+
+-----
+
+Nak tahu anggaran kalau pelan macam ni atas tanah korang? DM saya lokasi tanah 🤝
+
+---
+
+## CW-K · Trust · Ijok 6, owner minta stor
+Bahan: caption TikTok 14 Okt (42' x 48', 1,501 kps, 4 bilik 3 bilik air 1 stor, dapur luas, RM258K). 📸 Gambar stor & dapur.
+
+Ramai bila plan rumah fikir bilik je. Owner ni lain sikit, dia minta stor.
+
+Dan bila saya tengok rumah dia siap, saya rasa keputusan dia memang betul. Jom saya share!
+
+-----
+
+Rumah ni ada 4 bilik, 3 bilik air, dapur yang luas, dan satu stor.
+
+Barang-barang yang selalunya menumpang belakang pintu atau bawah tangga, semua ada tempat dia sendiri. Rumah pun nampak lebih kemas.
+
+-----
+
+Ijok, Selangor
+42' x 48' (1,501 kps)
+Harga semasa binaan: RM258K, bayaran tunai ikut progress binaan
+
+Harga tu ikut spec dan harga bahan masa rumah ni dibina ya.
+
+-----
+
+Kalau korang bina rumah nanti, stor tu wajib ke boleh skip? Komen 👇
