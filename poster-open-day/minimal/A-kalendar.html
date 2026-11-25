@@ -1,0 +1,37 @@
+<!doctype html><html><head><meta charset="utf-8"><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Kaushan+Script&family=Mr+Dafoe&display=swap" rel="stylesheet"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;overflow:hidden;position:relative;font-family:'Poppins';background:radial-gradient(ellipse at 50% 35%,#2E559A 0%,#203A68 60%,#172B50 100%);color:#fff}
+.abs{position:absolute}
+.logo{left:50%;top:70px;transform:translateX(-50%);width:250px}
+.h{top:285px;left:0;right:0;text-align:center;font-weight:900;font-size:190px;line-height:1;letter-spacing:-.02em;color:#F5B82E}
+.d{top:490px;left:0;right:0;text-align:center;font-weight:500;font-size:42px;color:#fff}
+.cal{left:150px;top:600px;width:780px;height:560px;perspective:1400px}
+.back{position:absolute;left:30px;right:30px;top:40px;bottom:-10px;background:linear-gradient(#E9A520,#C98A10);clip-path:polygon(4% 0,96% 0,100% 100%,0 100%);border-radius:10px}
+.sheet{position:absolute;left:0;right:0;top:20px;height:520px;transform:rotateX(14deg);transform-origin:top;border-radius:14px;overflow:hidden;box-shadow:0 40px 60px #0006;background:#fff}
+.sheet .top{height:190px;background:#F5B82E;color:#203A68;font-weight:700;font-size:118px;text-align:center;line-height:200px;letter-spacing:.02em}
+.days{display:flex;justify-content:center;gap:40px;padding-top:60px}
+.day{width:190px;height:190px;border-radius:30px;background:#203A6826;color:#203A6888;font-weight:700;font-size:96px;display:grid;place-items:center;position:relative}
+.day.on{background:#203A68;color:#fff;transform:scale(1.08);box-shadow:0 14px 30px #203A6866}
+.day.on::after{content:"";position:absolute;inset:-10px;border:5px solid #F5B82E;border-radius:38px}
+.stk{position:absolute;font-size:92px;filter:drop-shadow(0 6px 6px #0003)}
+.rings{position:absolute;left:30px;right:30px;top:0;height:60px;display:flex;justify-content:space-between;z-index:3}
+.rings i{width:14px;height:62px;border-radius:8px;background:linear-gradient(90deg,#8a8a8a,#f2f2f2 45%,#9a9a9a);box-shadow:0 2px 3px #0004}
+.base{left:0;right:0;bottom:0;height:200px;background:linear-gradient(#FFD36B,#F5B82E);display:flex;align-items:center;justify-content:center;gap:40px;color:#203A68;font-size:30px;font-weight:600}
+.base b{color:#203A68;font-weight:800}
+.base .sep{width:2px;height:40px;background:#203A6855}
+</style></head><body>
+<img class="abs logo" src="../brand/logo-on-dark.svg">
+<div class="abs h">OPEN DAY</div>
+<div class="abs d">Sabtu, 21 November</div>
+<div class="abs cal">
+  <div class="back"></div>
+  <div class="sheet"><div class="top">Nov</div>
+    <div class="days"><div class="day">20</div><div class="day on">21</div><div class="day">22</div></div>
+  </div>
+  <div class="rings"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  <div class="stk" style="left:70px;top:420px;transform:rotate(-12deg)">🏡</div>
+  <div class="stk" style="left:500px;top:215px;transform:rotate(18deg);font-size:80px">🔑</div>
+  <div class="stk" style="left:640px;top:410px;transform:rotate(8deg)">✨</div>
+</div>
+<div class="abs base"><span>9 pagi – 4 petang</span><span class="sep"></span><span>Booking: <b>+60 12-379 4335</b></span></div>
+</body></html>

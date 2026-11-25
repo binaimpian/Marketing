@@ -1,0 +1,42 @@
+<!doctype html><html><head><meta charset="utf-8"><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Kaushan+Script&family=Mr+Dafoe&display=swap" rel="stylesheet"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;overflow:hidden;position:relative;font-family:'Poppins';background:#fff}
+.abs{position:absolute}
+svg.bg{position:absolute;inset:0}
+.logo{right:70px;top:70px;width:250px}
+.script{left:90px;top:330px;font-family:'Mr Dafoe';font-size:104px;color:#fff;line-height:1}
+.script::before{content:"";position:absolute;left:-100px;top:56px;width:150px;height:4px;background:#fff;border-radius:2px}
+.k{left:90px;top:480px;font-weight:700;font-size:38px;line-height:1.2;color:#F5B82E}
+.big{left:78px;top:590px;font-weight:900;font-size:290px;line-height:1;color:#fff;letter-spacing:-.03em;display:flex;align-items:center;gap:22px}
+.big small{font-size:74px;line-height:.95;letter-spacing:0;color:#F5B82E}
+.s{left:92px;top:900px;font-weight:600;font-size:34px;color:#fff}
+.p{left:620px;top:565px;height:690px;filter:drop-shadow(0 0 2px #ffffff99) drop-shadow(0 20px 25px #0006);z-index:2}
+.foot{left:0;right:0;bottom:0;height:120px;background:#fff;border-radius:60px 60px 0 0;display:flex;align-items:center;justify-content:center;gap:34px;font-weight:600;font-size:28px;color:#203A68;z-index:3}
+.foot span{display:flex;align-items:center;gap:14px}
+.foot .ic{width:52px;height:52px;border-radius:50%;background:#F5B82E;display:grid;place-items:center}
+.foot .sep{width:2px;height:44px;background:#203A6833}
+</style></head><body>
+<svg class="bg" viewBox="0 0 1080 1350">
+ <defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E559A"/><stop offset="1" stop-color="#1A3060"/></linearGradient>
+  <linearGradient id="flap" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE29A"/><stop offset=".55" stop-color="#F5B82E"/><stop offset="1" stop-color="#D99512"/></linearGradient>
+  <filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="-14" dy="22" stdDeviation="18" flood-opacity=".35"/></filter>
+ </defs>
+ <!-- gold page, corner removed -->
+ <path d="M0,0 H430 C560,170 820,400 1080,520 V1350 H0 Z" fill="url(#g)"/>
+ <!-- curled flap -->
+ <path filter="url(#sh)" d="M430,0 C560,170 820,400 1080,520 C900,540 740,580 657,630 C640,440 580,200 430,0 Z" fill="url(#flap)"/>
+</svg>
+<div class="abs" style="left:580px;top:560px;width:560px;height:760px;background:radial-gradient(ellipse at 50% 40%,#7FA3E0aa 0%,#4A74C055 40%,transparent 70%)"></div>
+<img class="abs logo" src="../brand/logo-primary.svg">
+<div class="abs script">Jom datang!</div>
+<div class="abs k">OPEN DAY<br>BINA IMPIAN EMPIRE</div>
+<div class="abs big">21<small>NOV<br>2026</small></div>
+<div class="abs s">Sabtu · 9 pagi – 4 petang</div>
+<img class="abs p" src="../team-cut/IMG_1848.png">
+<div class="abs foot">
+ <span><i class="ic"><svg width="28" height="28" viewBox="0 0 24 24" fill="#203A68"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg></i>+60 12-379 4335</span>
+ <span class="sep"></span>
+ <span>Booking slot sekarang!</span>
+</div>
+</body></html>

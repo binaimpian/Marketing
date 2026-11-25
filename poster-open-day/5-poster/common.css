@@ -1,0 +1,6 @@
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--navy:#203A68;--navy2:#162A4D;--gold:#C1925A;--gold2:#D9B07C;--cream:#F5F1EA}
+body{width:1080px;height:1350px;overflow:hidden;position:relative;font-family:'Poppins',sans-serif}
+.abs{position:absolute}
+.cut{position:absolute;filter:drop-shadow(0 14px 20px #0005)}
+.qr{background:#fff;padding:8px;border-radius:12px}.qr img{display:block}
