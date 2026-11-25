@@ -37,7 +37,7 @@ Bahan: video TikTok inspection bersama tuan rumah part 1–3 (8, 11, 16 Nov, 30K
 
 Ramai ingat hari serahan kunci tu terus pegang kunci, ambil gambar, siap.
 
-Sebenarnya sebelum kunci tu bertukar tangan, ada satu sesi yang jarang orang tunjuk. Saya pun dulu tak tahu, sampailah ikut shoot sendiri.
+Sebenarnya sebelum kunci tu bertukar tangan, ada satu sesi yang jarang orang tunjuk. Saya pun dulu tak tahu, sampailah tengok video yang kawan saya shoot masa sesi ni.
 
 Jom saya share apa jadi masa sesi ni!
 
@@ -88,3 +88,55 @@ Sebab harga bukan ikut saiz je. Design, spec bahan, lokasi tanah dan harga bahan
 -----
 
 Nak tahu anggaran untuk pelan dan tanah korang sendiri? DM saya saiz rumah yang korang nak dengan lokasi tanah 🤝
+
+---
+
+## CW-D · Education · Cara betul tentukan point lampu (CWM48)
+Bahan: gambar site (benang bersilang di siling). 📸 Guna gambar tu.
+
+Pernah tak terfikir, macam mana tukang tahu nak letak point lampu betul-betul dekat tengah siling? 🤔
+
+Tak ada main agak-agak tau. Ni gambar dari site kami. Nampak tak benang yang bersilang tu? Jom saya share!
+
+-----
+
+Caranya simple je. Tukang tarik benang dari bucu ke bucu siling, menyerong. Satu dari kiri ke kanan, satu lagi dari kanan ke kiri.
+
+Titik benang tu bersilang, itulah tengah-tengah ruang. Titik tu jadi rujukan untuk letak point lampu atau kipas siling.
+
+-----
+
+Nampak macam kerja kecil, tapi kalau lari sikit je, bila lampu dah pasang memang ketara senget. Lagi-lagi kalau siling tinggi dan ruang besar macam ni.
+
+Tapi tengah ruang tak semestinya tempat terbaik tau. Kalau korang dah tahu nak letak katil atau meja makan dekat mana, bincang dulu dengan team. Kadang-kadang point lampu lagi elok ikut susunan perabot.
+
+-----
+
+Korang pernah tak masuk rumah orang, lampu dia tak duduk tengah? 😂 Komen 👇
+
+---
+
+## CW-E · Trust · Owner unit ke-4 (homestay Sg Buloh)
+Bahan: komen sebenar di TikTok (video 28 Okt) + maklumat daripada Meor: owner dah bina 3 unit homestay di Sg Buloh. 📸 Gambar rumah homestay kalau ada.
+
+"Nak buat lagi tahun depan, doakan InsyaAllah… unit ke-4 dengan Bina Impian."
+
+Ni komen yang masuk dekat TikTok kami. Unit ke-4 tau. Bukan salah taip.
+
+Jom saya cerita sikit pasal owner ni!
+
+-----
+
+Owner ni dah bina 3 unit rumah dengan kami, semuanya di Sg Buloh. Design rumah homestay.
+
+Maksudnya dia dah rasa sendiri proses dari pelan sampai serah kunci. Bukan sekali, tapi tiga kali.
+
+-----
+
+Bagi saya, ni antara bukti paling jujur. Orang boleh cakap macam-macam pasal kontraktor, tapi owner yang datang balik untuk unit ke-2, ke-3 dan sekarang plan unit ke-4, tu dah cukup bercerita.
+
+Terima kasih owner atas kepercayaan. Doakan kami juga 🤍
+
+-----
+
+Ada tanah dan terfikir nak bina homestay atau rumah sewa? DM saya, kita borak dulu 🤝
