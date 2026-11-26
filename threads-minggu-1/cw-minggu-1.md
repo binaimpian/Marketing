@@ -1,14 +1,27 @@
-# CW minggu 1, @contractorguyy (gaya baru)
+# CW minggu 1, @contractorguyy
 
 Gambar: Drive "Meo acc threads (gambar)" > W6 > folder ikut ID CWM.
-
-Minggu 1: pillar Education + Trust. Masa ikut analitik: 09:00 / 12:00 / 17:00 MYT.
-Format sheet: post utama, kemudian setiap reply dipisah dengan garis `-----`.
+Format: 7 post utama sahaja, 7 dengan 1 reply, 7 dengan 2 reply. Setiap post ≤ 500 aksara. Reply dipisah dengan -----.
 
 ---
 
-## CW-A (CWM49) · Education · 09:00 · Bajet RM70–80K
-Bahan: komen sebenar di TikTok + harga projek yang dah disiarkan (Sg Buaya 3, Sepang 9)
+## CWM48 · Education · Point lampu, benang bersilang
+Bahan: Gambar site (benang bersilang di siling) 📸 ada · Format: Post utama + 1 reply
+
+Pernah tak terfikir, macam mana tukang tahu nak letak point lampu betul-betul dekat tengah siling? 🤔
+
+Tak ada main agak-agak tau. Ni gambar dari site kami. Nampak tak benang yang bersilang tu? Jom saya share!
+
+-----
+
+Tukang tarik benang dari bucu ke bucu siling, menyerong, kiri ke kanan dan kanan ke kiri. Titik benang bersilang tu lah tengah-tengah ruang, jadi rujukan untuk point lampu atau kipas.
+
+Tapi tengah ruang tak semestinya terbaik. Kalau dah tahu nak letak katil atau meja makan kat mana, bincang dulu dengan team. Kadang point lampu lagi elok ikut susunan perabot 😉
+
+---
+
+## CWM49 · Education · Bajet RM70–80K
+Bahan: Komen sebenar TikTok + harga projek yang dah disiarkan (Sg Buaya 3, Sepang 9) · Format: Post utama + 2 reply
 
 "Saya nak tanya, bajet dalam RM70 ke 80k, berapa keluasan dia? Kawasan Klang."
 
@@ -24,18 +37,14 @@ Satu lagi di Sepang, 20' x 39' (700 kps), 3 bilik 2 bilik air. Harga semasa bina
 
 -----
 
-Jadi kalau bajet RM70–80K, kena realistik sikit. Biasanya kena main dengan saiz rumah, bilangan bilik air atau spec bahan.
+Jadi kalau bajet RM70–80K, kena realistik sikit. Biasanya kena main dengan saiz, bilangan bilik air atau spec bahan. Saya tak nak janji boleh atau tak, sebab setiap tanah dan pelan lain.
 
-Saya tak nak janji boleh atau tak boleh, sebab setiap tanah dan pelan lain. Harga atas tu pun harga masa rumah tu dibina tau, bukan harga hari ni.
-
------
-
-Kalau korang pun ada bajet dalam kepala tapi segan nak tanya, DM saya bajet dengan lokasi tanah. Saya pass dekat team untuk kira anggaran yang betul 🤝
+Ada bajet dalam kepala tapi segan nak tanya? DM saya bajet dengan lokasi tanah. Saya pass dekat team untuk kira 🤝
 
 ---
 
-## CW-B (CWM51) · Trust · 12:00 · Inspection sebelum serah kunci
-Bahan: video TikTok inspection bersama tuan rumah part 1–3 (8, 11, 16 Nov, 30K views)
+## CWM51 · Trust · Inspection sebelum serah kunci
+Bahan: Video TikTok inspection bersama tuan rumah part 1–3 (30K views) · Format: Post utama + 2 reply
 
 Ramai ingat hari serahan kunci tu terus pegang kunci, ambil gambar, siap.
 
@@ -51,20 +60,14 @@ Ada yang jalan sambil tunjuk terus, ada juga yang guna borang inspection yang me
 
 -----
 
-Apa-apa yang owner nampak tak kena, dicatat dulu. Lepas tu baru team betulkan.
+Apa yang tak kena, dicatat dulu dan dibetulkan, baru serah kunci. Bila dah pindah masuk dengan barang semua, benda kecil memang susah nak perasan.
 
-Bagi saya part ni penting. Bila dah pindah masuk dengan barang semua, benda kecil memang susah nak perasan.
-
------
-
-Kalau korang tengah survey kontraktor, tanya sekali: ada sesi inspection dengan owner sebelum serah kunci tak?
-
-Video penuh sesi inspection ni ada dekat TikTok Bina Impian Empire, part 1 sampai 3 👀
+Tengah survey kontraktor? Tanya sekali: ada sesi inspection dengan owner sebelum serah kunci tak? 👀
 
 ---
 
-## CW-C (CWM52) · Education · 17:00 · Harga ikut kaki persegi
-Bahan: komen sebenar "166/sft ??" di TikTok + harga 4 projek yang dah disiarkan
+## CWM52 · Education · Harga ikut kaki persegi ("166/sft??")
+Bahan: Komen sebenar TikTok + harga 4 projek yang dah disiarkan · Format: Post utama + 2 reply
 
 "166/sft??"
 
@@ -83,43 +86,14 @@ Ijok, 1,501 kps, RM258K, lebih kurang RM172/kps
 
 -----
 
-Perasan tak? Rumah kecil tak semestinya murah kalau kira ikut kaki persegi. Sepang yang 700 kps tu paling tinggi.
+Perasan tak? Saiz lebih kecil tak semestinya lebih murah kalau kira ikut kaki persegi. Sepang yang 700 kps tu paling tinggi. Sebab design, spec, lokasi tanah dan harga bahan semasa semua main peranan.
 
-Sebab harga bukan ikut saiz je. Design, spec bahan, lokasi tanah dan harga bahan masa tu semua main peranan. Jadi jangan kira harga rumah korang guna satu nombor per kps je.
-
------
-
-Nak tahu anggaran untuk pelan dan tanah korang sendiri? DM saya saiz rumah yang korang nak dengan lokasi tanah 🤝
+Nak tahu anggaran untuk tanah korang? DM saya saiz rumah dengan lokasi tanah 🤝
 
 ---
 
-## CW-D (CWM48) · Education · Cara betul tentukan point lampu (CWM48)
-Bahan: gambar site (benang bersilang di siling). 📸 Guna gambar tu.
-
-Pernah tak terfikir, macam mana tukang tahu nak letak point lampu betul-betul dekat tengah siling? 🤔
-
-Tak ada main agak-agak tau. Ni gambar dari site kami. Nampak tak benang yang bersilang tu? Jom saya share!
-
------
-
-Caranya simple je. Tukang tarik benang dari bucu ke bucu siling, menyerong. Satu dari kiri ke kanan, satu lagi dari kanan ke kiri.
-
-Titik benang tu bersilang, itulah tengah-tengah ruang. Titik tu jadi rujukan untuk letak point lampu atau kipas siling.
-
------
-
-Nampak macam kerja kecil, tapi kalau lari sikit je, bila lampu dah pasang memang ketara senget. Lagi-lagi kalau siling tinggi dan ruang besar macam ni.
-
-Tapi tengah ruang tak semestinya tempat terbaik tau. Kalau korang dah tahu nak letak katil atau meja makan dekat mana, bincang dulu dengan team. Kadang-kadang point lampu lagi elok ikut susunan perabot.
-
------
-
-Korang pernah tak masuk rumah orang, lampu dia tak duduk tengah? 😂 Komen 👇
-
----
-
-## CW-E (CWM53) · Trust · Owner unit ke-4 (homestay Sg Buloh)
-Bahan: komen sebenar di TikTok (video 28 Okt) + maklumat daripada Meor: owner dah bina 3 unit homestay di Sg Buloh. 📸 Gambar rumah homestay kalau ada.
+## CWM53 · Trust · Owner unit ke-4, homestay Sg Buloh
+Bahan: Komen sebenar TikTok (28 Okt) + owner dah bina 3 unit homestay di Sg Buloh 📸 ada · Format: Post utama + 2 reply
 
 "Nak buat lagi tahun depan, doakan InsyaAllah… unit ke-4 dengan Bina Impian."
 
@@ -135,18 +109,14 @@ Maksudnya dia dah rasa sendiri proses dari pelan sampai serah kunci. Bukan sekal
 
 -----
 
-Bagi saya, ni antara bukti paling jujur. Orang boleh cakap macam-macam pasal kontraktor, tapi owner yang datang balik untuk unit ke-2, ke-3 dan sekarang plan unit ke-4, tu dah cukup bercerita.
-
-Terima kasih owner atas kepercayaan. Doakan kami juga 🤍
-
------
+Bagi saya, ni bukti paling jujur. Owner yang datang balik untuk unit ke-2, ke-3 dan sekarang plan unit ke-4, tu dah cukup bercerita. Terima kasih owner atas kepercayaan 🤍
 
 Ada tanah dan terfikir nak bina homestay atau rumah sewa? DM saya, kita borak dulu 🤝
 
 ---
 
-## CW-F (CWM54) · Education · "Katil king muat tak?"
-Bahan: komen sebenar di TikTok ("tunjuk la bilik, nk tgk luas ke tak. boleh letak katil king saiz tak") + CWM02 (pelan dengan perabot). 📸 Pelan bilik yang ada susunan katil & almari.
+## CWM54 · Education · Katil king muat tak?
+Bahan: Komen sebenar TikTok + CWM02 (pelan dengan perabot) · Format: Post utama + 2 reply
 
 "Tunjuk la bilik, nak tengok luas ke tak. Boleh letak katil king saiz tak?"
 
@@ -162,18 +132,14 @@ Tapi bila masuk katil, almari, meja solek, dengan ruang nak jalan, baru nampak s
 
 -----
 
-Sebab tu kalau bina rumah dengan kami, client boleh request pelan kosong atau pelan sekali dengan perabot.
+Sebab tu kalau bina dengan kami, client boleh request pelan kosong atau pelan sekali dengan perabot. Senaraikan perabot yang memang nak letak: katil king, almari 3 pintu, meja kerja. Biar bilik ikut barang korang 😉
 
-Bawa list perabot yang korang memang nak letak. Katil king, almari 3 pintu, meja kerja, semua sebut siap-siap. Biar saiz bilik ikut barang korang, bukan barang yang kena ikut bilik.
-
------
-
-Korang team katil queen ke king? 😂 Komen 👇
+Korang team katil queen ke king? 😂
 
 ---
 
-## CW-G (CWM55) · Education · "Bayar tunai ikut progress binaan", maksudnya apa?
-Bahan: caption TikTok Ijok 6 & Pulau Indah 13 ("bayaran tunai mengikut progress binaan").
+## CWM55 · Education · Bayaran tunai ikut progress binaan
+Bahan: Caption TikTok Ijok 6 & Pulau Indah 13 · Format: Post utama + 1 reply
 
 Dalam post rumah kami, selalu ada ayat ni: "bayaran tunai ikut progress binaan."
 
@@ -181,106 +147,60 @@ Ada yang tanya saya, maksudnya kena bayar semua sekali gus ke? Haa, ramai salah 
 
 -----
 
-Bukan bayar semua sekali gus tau.
+Bukan sekali gus tau. Bayaran dibuat ikut peringkat kerja yang dah siap. Satu peringkat siap, bayar untuk peringkat tu, lepas tu sambung yang seterusnya. Kerja jalan, baru bayaran jalan.
 
-Maksud dia, bayaran dibuat ikut peringkat kerja yang dah siap. Bila satu peringkat binaan siap, baru bayar untuk peringkat tu. Lepas tu sambung peringkat seterusnya.
-
------
-
-Bagi owner, cara ni senang nak nampak duit tu pergi ke mana. Kerja jalan, baru bayaran jalan.
-
-Cuma sebelum sign apa-apa, minta kontraktor terangkan jadual bayaran dia dengan jelas. Peringkat mana, berapa, bila. Jangan malu nak tanya.
-
------
-
-Ada soalan lain pasal cara bayaran bina rumah atas tanah sendiri? Tulis kat komen, saya cuba jawab 👇
+Cuma sebelum sign, minta kontraktor terangkan jadual bayaran dengan jelas: peringkat mana, berapa, bila. Jangan malu nak tanya 🤝
 
 ---
 
-## CW-H (CWM56) · Education · "Kawasan saya cover tak?"
-Bahan: komen sebenar di TikTok (Melaka, JB, Ulu Tiram, Seremban, Semenyih, Raub, Felda Temagau, Sabah) + kawasan liputan dalam caption syarikat.
+## CWM56 · Education · Kawasan liputan
+Bahan: Komen sebenar TikTok + kawasan liputan (disahkan Meor) · Format: Post utama sahaja
 
-"Melaka cover tak?" "Ulu Tiram Johor ada?" "Seremban?" "Raub boleh buat? Tanah sendiri, sebelah ada musang king."
+"Melaka cover tak?" "Ulu Tiram ada?" "Seremban?" "Raub boleh buat? Tanah sendiri, sebelah ada musang king." 😂
 
-Ni antara komen yang paling kerap saya baca dekat TikTok kami. Yang last tu buat saya senyum sorang-sorang 😂
+Ni antara komen paling kerap saya baca. Jawapannya: kami cover Selangor, Negeri Sembilan, Melaka, Johor, Perak dan kawasan sempadan Pahang.
 
-Jom saya jawab sekali harung!
+Tanah dekat Raub atau Felda kat Pahang, DM lokasi tepat dulu, team semak. Sabah & Sarawak belum lagi ya 🙏
 
------
-
-Kawasan yang kami cover sekarang: Selangor, Negeri Sembilan, Melaka, Johor, Perak dan kawasan sempadan Pahang.
-
-Jadi Melaka, Johor, Seremban, Semenyih, memang dalam kawasan kami.
-
------
-
-Untuk Pahang, kami cover kawasan sempadan. Jadi kalau tanah korang dekat Raub atau kawasan Felda, DM lokasi tepat dulu, team akan semak.
-
-Sabah dan Sarawak buat masa ni belum lagi ya. Maaf kawan-kawan sana 🙏
-
------
-
-Tanah korang dekat mana? Komen nama tempat, saya tolong semak dengan team 👇
+Tanah korang kat mana? Komen 👇
 
 ---
 
-## CW-I (CWM57) · Trust · Jalan Merbuk, Teluk Panglima Garang
-Bahan: caption TikTok 26 Sep (47' x 32', 1,280 kps, 4 bilik 3 bilik air, 2 pintu hadapan + 1 pintu belakang). 📸 Gambar rumah & pelan.
+## CWM57 · Trust · Jalan Merbuk, 2 pintu depan
+Bahan: Caption TikTok 26 Sep 📸 rumah & pelan · Format: Post utama + 1 reply
 
-Rumah ni ada 2 pintu depan. Kenapa?
+Rumah ni ada 2 pintu depan. Kenapa? 🤔
 
-Masa saya tengok pelan dia, saya terus faham apa yang owner nak. Jom saya share!
-
------
-
-Owner ni nak asingkan ruang tamu dengan ruang keluarga. Tetamu masuk satu pintu, duduk ruang tamu. Family boleh buat hal masing-masing kat ruang keluarga tanpa terganggu.
-
-Nampak tersorok, tapi tak tersorok sangat. Ada lagi satu pintu belakang dekat bahagian dapur.
+Masa saya tengok pelan dia, terus faham apa yang owner nak. Jom saya share!
 
 -----
 
-Jalan Merbuk, Teluk Panglima Garang
-47' x 32' (1,280 kps)
-4 bilik, 3 bilik air
+Owner nak asingkan ruang tamu dengan ruang keluarga. Tetamu masuk satu pintu, duduk ruang tamu. Family boleh buat hal masing-masing tanpa terganggu. Ada lagi satu pintu belakang dekat dapur.
 
-Benda macam ni yang best bila bina atas tanah sendiri. Owner yang tentukan cara rumah tu digunakan.
+📍 Jalan Merbuk, Teluk Panglima Garang
+47' x 32' (1,280 kps), 4 bilik, 3 bilik air
 
------
-
-Korang suka ruang tamu dengan ruang keluarga diasingkan, atau gabung terus? Komen 👇
+Korang suka ruang tamu & ruang keluarga diasingkan atau gabung? 👇
 
 ---
 
-## CW-J (CWM58) · Trust · Pulau Indah 13, privasi bilik
-Bahan: caption TikTok 8 Okt (40' x 33', 1,040 kps, 4 bilik 3 bilik air, RM177K, 15K views). 📸 Gambar ruang tamu.
+## CWM58 · Trust · Pulau Indah 13, privasi bilik
+Bahan: Caption TikTok 8 Okt 📸 ruang tamu · Format: Post utama sahaja
 
-Masuk ruang tamu rumah ni, satu pintu bilik pun tak nampak.
+Masuk ruang tamu rumah ni, satu pintu bilik pun tak nampak. Saya pun tercari-cari mula-mula 😂
 
-Saya pun tercari-cari mula-mula, mana bilik dia? 😂 Jom saya share!
+Rupanya owner sendiri susun semua ruang. Ruang tamu depan, bilik tersusun kat belakang. Ada tetamu pun, privasi family tetap terjaga.
 
------
+📍 Pulau Indah, Selangor
+40' x 33' (1,040 kps), 4 bilik, 3 bilik air
+Harga semasa binaan: RM177K
 
-Rupanya semua ruang dipisah dan disusun oleh owner sendiri. Ruang tamu dekat depan, bilik-bilik tersusun kat belakang.
-
-Bila ada tetamu, privasi family tetap terjaga.
-
------
-
-Pulau Indah, Selangor
-40' x 33' (1,040 kps)
-4 bilik, 3 bilik air
-Harga semasa binaan: RM177K, bayaran tunai ikut progress binaan
-
-Harga tu ikut spec dan harga bahan masa rumah ni dibina ya.
-
------
-
-Nak tahu anggaran kalau pelan macam ni atas tanah korang? DM saya lokasi tanah 🤝
+Nak tahu anggaran pelan macam ni atas tanah korang? DM saya 🤝
 
 ---
 
-## CW-K (CWM59) · Trust · Ijok 6, owner custom pelan tambah stor
-Bahan: caption TikTok 14 Okt (42' x 48', 1,501 kps, 4 bilik 3 bilik air 1 stor, dapur luas, RM258K) + Meor: owner custom pelan untuk tambah stor. 📸 Gambar stor & dapur.
+## CWM59 · Trust · Ijok 6, custom tambah stor
+Bahan: Caption TikTok 14 Okt + owner custom pelan tambah stor 📸 stor & dapur · Format: Post utama + 1 reply
 
 Ramai bila plan rumah fikir bilik je. Owner ni lain sikit, dia custom pelan semata-mata nak tambah stor.
 
@@ -288,26 +208,18 @@ Bila saya masuk rumah dia yang dah siap, baru saya faham kenapa. Jom saya share!
 
 -----
 
-Rumah ni ada 4 bilik, 3 bilik air, dapur yang luas, dan satu stor.
+Barang yang selalunya menumpang belakang pintu atau bawah tangga, semua ada tempat sendiri. Rumah terus nampak kemas.
 
-Barang-barang yang selalunya menumpang belakang pintu atau bawah tangga, semua ada tempat dia sendiri. Rumah pun nampak lebih kemas.
+📍 Ijok, Selangor
+42' x 48' (1,501 kps), 4 bilik, 3 bilik air, 1 stor, dapur luas
+Harga semasa binaan: RM258K
 
------
-
-Ijok, Selangor
-42' x 48' (1,501 kps)
-Harga semasa binaan: RM258K, bayaran tunai ikut progress binaan
-
-Harga tu ikut spec dan harga bahan masa rumah ni dibina ya.
-
------
-
-Kalau korang bina rumah nanti, stor tu wajib ke boleh skip? Komen 👇
+Korang, stor tu wajib ke boleh skip? 👇
 
 ---
 
-## CW-L (CWM60) · Education · Kaki lima retak sebab tanah mendap
-Bahan: gambar jalan/kaki lima retak (sumber: Utusan Borneo, wajib kredit, atau guna gambar site sendiri). 📸
+## CWM60 · Education · Kaki lima retak, tanah mendap
+Bahan: Gambar Utusan Borneo (wajib kredit) 📸 ada · Format: Post utama + 2 reply
 
 Pernah nampak kaki lima atau lantai luar rumah retak memanjang macam ni? Kadang-kadang sampai terbelah dan tenggelam sebelah.
 
@@ -321,45 +233,27 @@ Bila tanah turun, lantai yang duduk atas tanah tu pun ikut turun. Sebab tu dia r
 
 -----
 
-Untuk korang yang nak bina rumah atas tanah sendiri, ni sebab kenapa kena tanya pasal keadaan tanah dari awal.
+Nak bina atas tanah sendiri? Tanya pasal keadaan tanah dari awal. Tanah asal atau baru ditambak? Kawasan tu selalu bertakung air? Bincang dengan kontraktor sebelum mula bina, bukan lepas nampak retak.
 
-Tanah tu tanah asal atau baru ditambak? Kawasan tu selalu bertakung air bila hujan? Benda ni semua kena bincang dengan kontraktor sebelum mula bina, bukan lepas nampak retak.
-
------
-
-Tanah korang tanah asal atau tanah tambak? Komen 👇 Kalau tak pasti, DM saya lokasi, team boleh tolong tengok.
+Tak pasti tanah korang macam mana? DM saya lokasi, team boleh tolong tengok 🤝
 
 (Sumber gambar: Utusan Borneo)
 
 ---
 
-## CW-M (CWM61) · Education · Kenapa kami tulis "harga semasa binaan"
-Bahan: caption TikTok (Sepang 9, Ijok 6, Pulau Indah 13, Sg Buaya 3) + caption Open Day ("LOCK harga sebelum kenaikan").
+## CWM61 · Education · Harga semasa binaan
+Bahan: Caption TikTok (harga projek) + caption Open Day · Format: Post utama sahaja
 
 Perasan tak, setiap kali kami share harga rumah, mesti ada perkataan "harga semasa binaan"?
 
-Ada yang ingat tu cuma ayat sedap-sedap. Sebenarnya ada sebab dia. Jom saya share!
+Sebabnya harga bahan binaan tak tetap. Simen, besi, bata, kayu bumbung, semua boleh naik turun. Harga yang kami share tu harga masa rumah tu dibina. Kalau bina hari ni, mungkin dah lain.
 
------
-
-Harga bahan binaan ni bukan tetap. Simen, besi, bata, kayu bumbung, semua boleh naik turun ikut masa.
-
-Jadi harga rumah yang kami share tu ialah harga masa rumah tu dibina. Kalau bina hari ni, harga mungkin dah lain.
-
------
-
-Sebab tu saya selalu pesan, jangan ambil harga rumah orang lain bulat-bulat untuk kira bajet korang.
-
-Guna sebagai gambaran kasar je. Harga sebenar kena kira ikut pelan, spec dan tanah korang, dengan harga bahan semasa.
-
------
-
-Nak tahu anggaran ikut harga terkini? DM saya saiz rumah yang korang nak dengan lokasi tanah 🤝
+Jadi guna sebagai gambaran kasar je, jangan ambil bulat-bulat untuk kira bajet. Nak anggaran ikut harga terkini? DM saya 🤝
 
 ---
 
-## CW-N (CWM62) · Education · Bina atas tanah sendiri: apa yang boleh custom?
-Bahan: caption & bank sendiri: Perepat 3 (warna & pintu pilihan sendiri), Ijok 6 (tambah stor), Serendah (dapur luar, barn door), Jalan Merbuk (2 pintu depan), CWM02 (pelan dengan perabot). 📸 Kolaj gambar projek.
+## CWM62 · Education · Apa yang boleh custom
+Bahan: Perepat 3, Ijok 6, Jalan Merbuk, Serendah (dapur luar, barn door) 📸 kolaj · Format: Post utama + 2 reply
 
 "Kalau bina rumah dengan kontraktor, boleh ubah apa je sebenarnya?"
 
@@ -367,24 +261,18 @@ Soalan ni selalu masuk. Daripada saya jawab teori, saya senaraikan apa yang owne
 
 -----
 
-Ada owner pilih warna rumah dan design pintu sendiri. Ada yang custom pelan semata-mata nak tambah stor.
-
-Ada yang buat 2 pintu depan supaya tetamu dan family tak bertembung. Ada yang buat 2 dapur, satu dalam, satu dekat luar rumah.
+Ada owner pilih warna rumah dan design pintu sendiri. Ada yang custom pelan semata-mata nak tambah stor. Ada yang buat 2 pintu depan supaya tetamu dan family tak bertembung.
 
 -----
 
-Ada juga yang pilih barn door untuk bilik air dekat ruang keluarga, supaya nampak tersorok tapi tak makan ruang.
+Ada yang buat 2 dapur, satu dalam, satu dekat luar rumah. Ada juga pilih barn door untuk bilik air dekat ruang keluarga.
 
-Semua ni bermula dengan satu benda: owner tahu cara dia nak guna rumah tu hari-hari.
-
------
-
-Kalau korang dapat custom satu benda je dalam rumah impian, korang pilih apa? Komen 👇
+Semua bermula dengan satu benda: owner tahu cara dia nak guna rumah tu hari-hari. Korang kalau dapat custom satu benda, pilih apa? 👇
 
 ---
 
-## CW-O (CWM63) · Education · Lantai dapur drop 2 inci untuk mesin basuh
-Bahan: TikTok 20 Nov "Boleh ke lantai drop 2inch dibahagian dapur? untuk mesin basuh?" (ER 6.4%, antara tertinggi). 📸 Gambar lantai drop di site.
+## CWM63 · Education · Lantai dapur drop 2 inci
+Bahan: TikTok 20 Nov (ER 6.4%) 📸 lantai drop · Format: Post utama + 1 reply
 
 "Boleh ke lantai dapur dibuat drop 2 inci untuk mesin basuh?"
 
@@ -392,176 +280,97 @@ Soalan ni nampak kecil, tapi video yang jawab soalan ni antara yang paling ramai
 
 -----
 
-Jawapannya boleh. Bahagian lantai untuk mesin basuh dibuat lebih rendah sikit dari lantai dapur.
+Jawapannya boleh. Bahagian lantai untuk mesin basuh dibuat rendah sikit dari lantai dapur. Kalau air melimpah, tak lari ke seluruh dapur, nak cuci pun senang.
 
-Kenapa orang buat? Kalau ada air melimpah masa mesin basuh berjalan, air tak lari ke seluruh dapur. Nak cuci pun lagi senang.
-
------
-
-Tapi benda ni kena bagitahu awal, masa buat pelan.
-
-Jangan tunggu lantai dah siap atau jubin dah nak pasang baru teringat. Masa tu nak ubah memang lagi leceh.
-
------
-
-Mesin basuh korang letak mana sekarang, dapur ke bilik air? Komen 👇
+Tapi kena bagitahu awal masa buat pelan, jangan tunggu jubin dah nak pasang. Mesin basuh korang letak mana, dapur ke bilik air? 👇
 
 ---
 
-## CW-P (CWM64) · Education · 3 soalan sebelum sign dengan kontraktor
-Bahan: rumusan CW-B (inspection), CW-G (bayaran ikut progress), CW-M (harga semasa).
+## CWM64 · Education · 3 soalan sebelum sign kontraktor
+Bahan: Rumusan CWM51, CWM55, CWM61 · Format: Post utama sahaja
 
-Kalau saya ada kawan yang nak sign dengan mana-mana kontraktor esok, saya akan suruh dia tanya 3 soalan ni dulu.
-
-Bukan sebab nak susahkan kontraktor. Tapi sebab benda ni yang selalu owner terlepas tanya. Jom!
-
------
+Kalau kawan saya nak sign dengan mana-mana kontraktor esok, saya suruh dia tanya 3 soalan ni dulu:
 
 1. Jadual bayaran macam mana? Peringkat mana, berapa, bila.
-
-2. Harga ni harga bila? Sebab harga bahan berubah, pastikan korang faham harga yang diberi tu untuk tempoh bila.
-
------
-
+2. Harga ni harga bila? Harga bahan berubah, pastikan faham tempoh harga tu.
 3. Ada sesi inspection dengan owner sebelum serah kunci tak?
 
-Kontraktor yang yakin dengan kerja dia, biasanya senang je jawab soalan macam ni.
-
------
-
-Ada soalan lain yang korang rasa wajib tanya? Tambah kat komen, saya kumpul jadi part 2 👇
+Kontraktor yang yakin dengan kerja dia, senang je jawab. Ada soalan lain yang wajib tanya? Tambah kat komen 👇
 
 ---
 
-## CW-Q (CWM65) · Trust · Rantau Panjang, dua serah kunci berturut-turut
-Bahan: TikTok 5 Nov (Rantau Panjang 4: 42'x39', 1,278 kps, 3 bilik 2 bilik air) & 12 Nov (Rantau Panjang 3: 20'x51.5', 1,030 kps, 3 bilik 2 bilik air). 📸 Gambar dua-dua rumah.
+## CWM65 · Trust · "Iklan tanpa harga, baik tak payah iklan"
+Bahan: Komen sebenar TikTok + harga 4 projek yang dah disiarkan · Format: Post utama + 1 reply
 
-Dua minggu berturut-turut saya ke Rantau Panjang, Klang. Dua-dua kali untuk serah kunci 🔑
+"Iklan tanpa harga, baik tak payah iklan."
 
-Yang menarik, dua rumah ni bentuk tanah dia lain sangat. Jom saya tunjuk!
+Komen ni masuk dekat salah satu video kami. Pedas, tapi saya faham perasaan dia 😅
 
------
-
-Rumah pertama, Rantau Panjang 4. Tanah lebar.
-42' x 39' (1,278 kps), 3 bilik, 2 bilik air.
-
-Rumah kedua, Rantau Panjang 3. Tanah memanjang dan sempit.
-20' x 51.5' (1,030 kps), 3 bilik, 2 bilik air.
+Jom saya share kenapa kami tetap cuba letak harga!
 
 -----
 
-Bilangan bilik sama, tapi susun atur lain terus sebab ikut bentuk tanah.
+Sebab tu dalam post rumah siap, kami cuba letak harga semasa binaan. Contoh Sg Buaya RM98K, Sepang RM140K, Pulau Indah RM177K, Ijok RM258K.
 
-Tu sebab saya selalu cakap, pelan rumah tak boleh copy paste. Kena ikut tanah korang sendiri.
-
------
-
-Tanah korang lebar ke memanjang? Komen 👇
+Harga tu harga masa rumah dibina, tapi sekurang-kurangnya korang dapat gambaran sebelum DM. Korang nak lebih banyak post yang ada harga? Komen 👇
 
 ---
 
-## CW-R (CWM66) · Trust · Lenggeng 3, rumah kecil untuk pencen
-Bahan: TikTok 17 Nov (Lenggeng 3: 25'x30', 644 kps, 2 bilik 1 bilik air, custom). 📸 Gambar rumah.
+## CWM66 · Trust · Lenggeng 3, rumah pencen
+Bahan: TikTok 17 Nov (Lenggeng 3, custom) 📸 rumah · Format: Post utama + 1 reply
 
-Rumah ni antara yang paling kecil saya pernah pergi serah kunci. 2 bilik, 1 bilik air je.
+Bukan semua owner nak rumah banyak bilik. Owner dekat Lenggeng ni tahu betul apa yang dia perlukan.
 
-Tapi bila sampai, saya rasa rumah macam ni lah yang ramai sebenarnya perlukan. Jom saya cerita!
+Dari lakaran pelan sampai serah kunci, rumah ni memang ikut kehendak dia. Jom saya share!
 
 -----
 
-Lenggeng, Negeri Sembilan
+📍 Lenggeng, Negeri Sembilan
 25' x 30' (644 kps)
 2 bilik, 1 bilik air
-Rumah custom, dari lakaran pelan sampai serah kunci.
 
------
+Untuk yang plan rumah pencen atau rumah kedua dekat kampung, pelan macam ni senang dijaga dan kos lebih terkawal. Yang penting cukup dengan cara korang hidup.
 
-Tak semua orang perlukan rumah besar. Anak-anak dah besar, dah ada rumah sendiri. Yang tinggal suami isteri je.
-
-Untuk rumah pencen atau rumah kedua dekat kampung, rumah kecil lagi senang jaga, senang kemas, dan kos lebih terkawal.
-
------
-
-Kalau korang bina rumah pencen nanti, berapa bilik cukup? Komen 👇
+Kalau bina rumah pencen nanti, berapa bilik korang rasa cukup? 👇
 
 ---
 
-## CW-S (CWM67) · Trust · Kg Melayu Subang 2
-Bahan: TikTok 19 Okt (45'x45', 1,625 kps, 4 bilik 3 bilik air). 📸 Gambar rumah.
+## CWM67 · Trust · Kg Melayu Subang 2
+Bahan: TikTok 19 Okt 📸 rumah · Format: Post utama sahaja
 
 "Tahniah & terima kasih atas kepercayaan anda."
 
-Ayat ni kami tulis setiap kali serah kunci. Tapi bagi saya, ayat tu tak pernah jadi ayat template. Jom saya share kenapa!
+Ayat ni kami tulis setiap kali serah kunci. Tapi bagi saya, ia tak pernah jadi ayat template. Setiap owner dah kumpul duit bertahun, tunggu tanah, bincang pelan berkali-kali. Bila dia pilih kami, tu bukan benda kecil 🤍
 
------
+📍 Kg Melayu Subang, Selangor
+45' x 45' (1,625 kps), 4 bilik, 3 bilik air
 
-Kg Melayu Subang, Selangor
-45' x 45' (1,625 kps)
-4 bilik, 3 bilik air
-
-Tanah segi empat sama macam ni senang nak susun ruang. Ruang tengah boleh jadi lapang, bilik-bilik keliling.
-
------
-
-Setiap rumah yang kami serah kunci, ada owner yang dah kumpul duit bertahun-tahun, dah tunggu tanah, dah bincang pelan berkali-kali.
-
-Bila dia pilih kami untuk bina, tu bukan benda kecil. Sebab tu "terima kasih atas kepercayaan" tu memang datang dari hati.
-
------
-
-Korang dah berapa lama simpan impian nak bina rumah sendiri? Komen 👇
+Dah berapa lama korang simpan impian nak bina rumah sendiri? 👇
 
 ---
 
-## CW-T (CWM68) · Trust · Tak semua owner nak masuk video
-Bahan: tab Checklist Serah Kunci (video testimoni: beberapa site "Owner tak setuju", selebihnya "Sudah rakam").
+## CWM68 · Trust · Tak semua owner nak masuk video
+Bahan: Tab Checklist Serah Kunci (video testimoni) · Format: Post utama sahaja
 
-Kerja saya hari serah kunci: shoot gambar, video, drone. Tapi ada satu soalan yang saya mesti tanya dulu.
+Hari serah kunci, kerja saya shoot gambar, video, drone. Tapi ada satu soalan saya mesti tanya dulu: "Boleh ke kami rakam video testimoni?"
 
-"Boleh ke kami rakam video testimoni?"
+Tak semua jawab ya. Ada owner yang happy cerita panjang depan kamera. Ada juga yang lebih selesa tak masuk video, nak jaga privasi family.
 
-Dan tak semua jawab ya. Jom saya cerita!
+Dan kami hormat. Rumah dah siap, kunci dah serah, tu yang paling penting 🤍
 
------
-
-Ada owner yang memang happy nak share. Siap cerita panjang depan kamera.
-
-Ada juga yang senyum, tapi cakap "tak payah la, malu." Ada yang memang nak jaga privasi family.
-
------
-
-Dan kami hormat. Rumah dah siap, kunci dah serah, tu yang paling penting.
-
-Sebab tu bukan semua rumah yang kami bina ada video testimoni. Tapi semua ada cerita dia sendiri.
-
------
-
-Kalau korang, berani tak masuk video hari serah kunci? 😂 Komen 👇
+Korang berani tak masuk video hari serah kunci? 😂
 
 ---
 
-## CW-U (CWM69) · Trust · Sepang 9, 700 kps
-Bahan: TikTok 18 Okt (Sepang 9: 20'x39', 700 kps, 3 bilik 2 bilik air, RM140K). 📸 Gambar rumah.
+## CWM69 · Trust · Sepang 9, 700 kps
+Bahan: TikTok 18 Okt 📸 rumah · Format: Post utama sahaja
 
-700 kaki persegi. Kalau dengar nombor tu je, ramai bayang rumah sempit.
+700 kps. Tapi rumah ni ada 3 bilik dan 2 bilik air.
 
-Tapi rumah ni ada 3 bilik dan 2 bilik air. Jom saya tunjuk!
+Rahsia dia susun atur. Ruang tak membazir, laluan pendek, setiap sudut ada fungsi. Siap dibina dan kunci dah diserahkan kepada owner 🔑
 
------
-
-Sepang, Selangor
+📍 Sepang, Selangor
 20' x 39' (700 kps)
-3 bilik, 2 bilik air
 Harga semasa binaan: RM140K
 
-Siap dibina dan kunci dah diserahkan kepada owner.
-
------
-
-Rahsia dia bukan saiz, tapi susun atur. Ruang yang tak membazir, laluan yang pendek, setiap sudut ada fungsi.
-
-Rumah kecil yang disusun betul, lagi selesa dari rumah besar yang banyak ruang kosong tak terguna.
-
------
-
-Nak tahu rumah saiz macam ni muat tak atas tanah korang? DM saya ukuran tanah 🤝
+Nak tahu pelan macam ni muat tak atas tanah korang? DM saya ukuran tanah 🤝
