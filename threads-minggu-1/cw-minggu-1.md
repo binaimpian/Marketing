@@ -89,8 +89,8 @@ Dah ada tanah tapi tak tahu nak mula dari mana? Tekan link di bio, borak dulu de
 
 ---
 
-## CWM53 · Trust · Owner unit ke-4, homestay Sg Buloh
-Bahan: Komen sebenar TikTok (28 Okt) + owner dah bina 3 unit homestay di Sg Buloh 📸 ada · Format: Post utama + 2 reply
+## CWM53 · Trust · Owner unit ke-4, homestay
+Bahan: Komen sebenar TikTok (28 Okt) + owner dah bina 3 unit homestay (lokasi tak disebut) 📸 ada · Format: Post utama + 2 reply
 
 "Nak buat lagi tahun depan, doakan InsyaAllah… unit ke-4 dengan Bina Impian."
 
@@ -100,7 +100,7 @@ Jom saya cerita sikit pasal owner ni!
 
 -----
 
-Owner ni dah bina 3 unit rumah dengan kami, semuanya di Sg Buloh. Design rumah homestay.
+Owner ni dah bina 3 unit rumah dengan kami. Ketiga-tiganya design rumah homestay.
 
 Maksudnya dia dah rasa sendiri proses dari pelan sampai serah kunci. Bukan sekali, tapi tiga kali.
 
