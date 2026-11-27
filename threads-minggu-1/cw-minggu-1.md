@@ -39,7 +39,7 @@ Satu lagi di Sepang, 20' x 39' (700 kps), 3 bilik 2 bilik air. Harga semasa bina
 
 Jadi kalau bajet RM70–80K, kena realistik sikit. Biasanya kena main dengan saiz, bilangan bilik air atau spec bahan. Saya tak nak janji boleh atau tak, sebab setiap tanah dan pelan lain.
 
-Ada bajet dalam kepala tapi segan nak tanya? DM saya bajet dengan lokasi tanah. Saya pass dekat team untuk kira 🤝
+Ada bajet dalam kepala tapi segan nak tanya? Tekan link di bio, team kami boleh bantu kira ikut bajet dan lokasi tanah korang 🤝
 
 ---
 
@@ -66,29 +66,26 @@ Tengah survey kontraktor? Tanya sekali: ada sesi inspection dengan owner sebelum
 
 ---
 
-## CWM52 · Education · Harga ikut kaki persegi ("166/sft??")
-Bahan: Komen sebenar TikTok + harga 4 projek yang dah disiarkan · Format: Post utama + 2 reply
+## CWM52 · Education · "Ada tak yang sekali dengan tanah?"
+Bahan: Komen sebenar TikTok (Ada x yg sekali dgn tanah?) + fokus syarikat: bina atas tanah sendiri · Format: Post utama + 2 reply
 
-"166/sft??"
+"Ada tak yang sekali dengan tanah?"
 
-Ada orang komen macam ni dekat video kami. Dia kira sendiri harga rumah bahagi keluasan.
+Soalan ni masuk dekat TikTok kami. Fair question, sebab ramai biasa beli rumah developer, rumah dengan tanah datang sekali.
 
-Saya pun jadi curious, terus kira projek-projek yang kami pernah share harga. Haa, ada satu benda yang ramai tak perasan. Jom saya share!
-
------
-
-Ni kiraan kasar saya, harga semasa binaan bahagi keluasan:
-
-Sg Buaya, 600 kps, RM98K, lebih kurang RM163/kps
-Sepang, 700 kps, RM140K, lebih kurang RM200/kps
-Pulau Indah, 1,040 kps, RM177K, lebih kurang RM170/kps
-Ijok, 1,501 kps, RM258K, lebih kurang RM172/kps
+Tapi konsep kami lain sikit. Jom saya share!
 
 -----
 
-Perasan tak? Saiz lebih kecil tak semestinya lebih murah kalau kira ikut kaki persegi. Sepang yang 700 kps tu paling tinggi. Sebab design, spec, lokasi tanah dan harga bahan semasa semua main peranan.
+Kami fokus bina rumah atas tanah sendiri. Maksudnya, tanah tu memang owner punya, sama ada tanah yang dibeli sendiri atau tanah keluarga.
 
-Nak tahu anggaran untuk tanah korang? DM saya saiz rumah dengan lokasi tanah 🤝
+Kami datang bina rumah atas tanah tu, ikut pelan yang owner nak.
+
+-----
+
+Kelebihannya, pelan boleh ikut bentuk tanah dan cara korang hidup, bukan satu pelan sama untuk satu taman.
+
+Dah ada tanah tapi tak tahu nak mula dari mana? Tekan link di bio, borak dulu dengan team kami 🤝
 
 ---
 
@@ -111,7 +108,7 @@ Maksudnya dia dah rasa sendiri proses dari pelan sampai serah kunci. Bukan sekal
 
 Bagi saya, ni bukti paling jujur. Owner yang datang balik untuk unit ke-2, ke-3 dan sekarang plan unit ke-4, tu dah cukup bercerita. Terima kasih owner atas kepercayaan 🤍
 
-Ada tanah dan terfikir nak bina homestay atau rumah sewa? DM saya, kita borak dulu 🤝
+Ada tanah dan terfikir nak bina homestay atau rumah sewa? Tekan link di bio, borak dulu dengan team kami 🤝
 
 ---
 
@@ -156,11 +153,13 @@ Cuma sebelum sign, minta kontraktor terangkan jadual bayaran dengan jelas: perin
 ## CWM56 · Education · Kawasan liputan
 Bahan: Komen sebenar TikTok + kawasan liputan (disahkan Meor) · Format: Post utama sahaja
 
-"Melaka cover tak?" "Ulu Tiram ada?" "Seremban?" "Raub boleh buat? Tanah sendiri, sebelah ada musang king." 😂
+"Melaka cover tak?" "Ulu Tiram ada?" "Seremban boleh?" "Semenyih?"
 
-Ni antara komen paling kerap saya baca. Jawapannya: kami cover Selangor, Negeri Sembilan, Melaka, Johor, Perak dan kawasan sempadan Pahang.
+Hampir setiap video kami, mesti ada soalan macam ni 😂 Jadi saya jawab terus kat sini.
 
-Tanah dekat Raub atau Felda kat Pahang, DM lokasi tepat dulu, team semak. Sabah & Sarawak belum lagi ya 🙏
+Kami cover Selangor, Negeri Sembilan, Melaka, Johor, Perak dan kawasan sempadan Pahang.
+
+Tanah dekat Pahang? Tekan link di bio dan bagi lokasi tepat, team semak dulu. Sabah & Sarawak belum lagi ya 🙏
 
 Tanah korang kat mana? Komen 👇
 
@@ -195,7 +194,7 @@ Rupanya owner sendiri susun semua ruang. Ruang tamu depan, bilik tersusun kat be
 40' x 33' (1,040 kps), 4 bilik, 3 bilik air
 Harga semasa binaan: RM177K
 
-Nak tahu anggaran pelan macam ni atas tanah korang? DM saya 🤝
+Nak tahu anggaran pelan macam ni atas tanah korang? Tekan link di bio 🤝
 
 ---
 
@@ -235,7 +234,7 @@ Bila tanah turun, lantai yang duduk atas tanah tu pun ikut turun. Sebab tu dia r
 
 Nak bina atas tanah sendiri? Tanya pasal keadaan tanah dari awal. Tanah asal atau baru ditambak? Kawasan tu selalu bertakung air? Bincang dengan kontraktor sebelum mula bina, bukan lepas nampak retak.
 
-Tak pasti tanah korang macam mana? DM saya lokasi, team boleh tolong tengok 🤝
+Tak pasti tanah korang macam mana? Tekan link di bio, team boleh tolong tengok 🤝
 
 (Sumber gambar: Utusan Borneo)
 
@@ -248,7 +247,7 @@ Perasan tak, setiap kali kami share harga rumah, mesti ada perkataan "harga sema
 
 Sebabnya harga bahan binaan tak tetap. Simen, besi, bata, kayu bumbung, semua boleh naik turun. Harga yang kami share tu harga masa rumah tu dibina. Kalau bina hari ni, mungkin dah lain.
 
-Jadi guna sebagai gambaran kasar je, jangan ambil bulat-bulat untuk kira bajet. Nak anggaran ikut harga terkini? DM saya 🤝
+Jadi guna sebagai gambaran kasar je, jangan ambil bulat-bulat untuk kira bajet. Nak anggaran ikut harga terkini? Tekan link di bio 🤝
 
 ---
 
@@ -312,16 +311,18 @@ Jom saya share kenapa kami tetap cuba letak harga!
 
 Sebab tu dalam post rumah siap, kami cuba letak harga semasa binaan. Contoh Sg Buaya RM98K, Sepang RM140K, Pulau Indah RM177K, Ijok RM258K.
 
-Harga tu harga masa rumah dibina, tapi sekurang-kurangnya korang dapat gambaran sebelum DM. Korang nak lebih banyak post yang ada harga? Komen 👇
+Harga tu harga masa rumah dibina, tapi sekurang-kurangnya korang dapat gambaran sebelum tanya team kami. Korang nak lebih banyak post yang ada harga? Komen 👇
 
 ---
 
-## CWM66 · Trust · Lenggeng 3, rumah pencen
-Bahan: TikTok 17 Nov (Lenggeng 3, custom) 📸 rumah · Format: Post utama + 1 reply
+## CWM66 · Trust · Rumah singgah & kebun moden (Lenggeng 3)
+Bahan: TikTok 17 Nov (Lenggeng 3, custom), sudut rumah singgah & kebun moden 📸 rumah · Format: Post utama + 1 reply
 
-Bukan semua owner nak rumah banyak bilik. Owner dekat Lenggeng ni tahu betul apa yang dia perlukan.
+Ada tanah kebun atau tanah kampung, tapi tak perlukan rumah besar?
 
-Dari lakaran pelan sampai serah kunci, rumah ni memang ikut kehendak dia. Jom saya share!
+Ramai sekarang pilih rumah singgah. Datang hujung minggu, jaga kebun, rehat, balik. Rumah kebun moden macam ni tak perlu banyak bilik, yang penting selesa, kemas dan senang jaga.
+
+Jom saya tunjuk satu contoh!
 
 -----
 
@@ -329,9 +330,9 @@ Dari lakaran pelan sampai serah kunci, rumah ni memang ikut kehendak dia. Jom sa
 25' x 30' (644 kps)
 2 bilik, 1 bilik air
 
-Untuk yang plan rumah pencen atau rumah kedua dekat kampung, pelan macam ni senang dijaga dan kos lebih terkawal. Yang penting cukup dengan cara korang hidup.
+Custom dari lakaran pelan sampai serah kunci. Saiz macam ni cukup untuk satu family datang bermalam, dan tak berat nak jaga bila tak duduk hari-hari.
 
-Kalau bina rumah pencen nanti, berapa bilik korang rasa cukup? 👇
+Korang ada tanah kebun? Kalau bina rumah singgah, nak berapa bilik? 👇
 
 ---
 
@@ -373,4 +374,4 @@ Rahsia dia susun atur. Ruang tak membazir, laluan pendek, setiap sudut ada fungs
 20' x 39' (700 kps)
 Harga semasa binaan: RM140K
 
-Nak tahu pelan macam ni muat tak atas tanah korang? DM saya ukuran tanah 🤝
+Nak tahu pelan macam ni muat tak atas tanah korang? Tekan link di bio, bagi ukuran tanah pada team kami 🤝
